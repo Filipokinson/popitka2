@@ -10,5 +10,8 @@ const onProgress = (event) => {
     progressBar.classList.remove('hide');
   }
 };
+<<<<<<< HEAD
 
+=======
+>>>>>>> 056773887ceda562a6e25b50cdc134862936f49f
 document.querySelector('model-viewer').addEventListener('progress', onProgress);
